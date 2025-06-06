@@ -1,0 +1,26 @@
+body {
+    background-color:  hsl(212, 45%, 89%);
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+#card {
+    background-color: white;
+    border-radius: 16px;
+    width: 300px;
+    padding: 16px 16px 28px 16px;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+p {
+    font-weight: 300;
+    font-size: 1.1rem;
+}
